@@ -4,6 +4,8 @@
 
 This is a 3D printable replacement for the broken hinge case mount on the Razer Blade 15" Advanced (2021) model (RZ09-0409x). This part is designed to replace the original plastic mount that commonly cracks and fails over time, causing the back cover to separate.
 
+![Cracked Original Hinge Mount](https://github.com/user-attachments/assets/44d3b07b-ac41-4254-ae14-31610b99e886)
+
 ## Features
 
 - Direct replacement for the OEM part
